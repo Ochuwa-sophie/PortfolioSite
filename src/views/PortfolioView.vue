@@ -41,7 +41,7 @@ export default {
     ServiceComponent,
     PortfolioComponent,
     FooterComponent,
-    ContactInfoComponent,
+    ContactInfoComponent
   },
 
   mounted() {
