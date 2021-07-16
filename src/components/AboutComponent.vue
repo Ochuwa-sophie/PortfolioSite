@@ -5,8 +5,12 @@
       <div class="columns is-centered">
         <div class="column is-four-fifths-desktop has-text-centered">
           <p class="font-secondary paragraph-lg has-text-dark">
-            Sophie is a software developer with major focus on backend technologies
-              She has demonstrable experience in Community engagement as well.
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+            aliquip ex ea commodo consequat. Duis aute irure dolor in
+            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+            pariatur.
           </p>
           <a class="button is-link">know more</a>
         </div>

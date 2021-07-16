@@ -7,7 +7,19 @@
           <div class="column is-4-tablet">
             <h5 class="has-text-light">Email</h5>
             <p class="has-text-white paragraph-lg font-secondary">
-              sophieobomighie@outlook.com
+              zama@gmail.com
+            </p>
+          </div>
+          <div class="column is-4-tablet">
+            <h5 class="has-text-light">Phone</h5>
+            <p class="has-text-white paragraph-lg font-secondary">
+              083 123 4567
+            </p>
+          </div>
+          <div class="column is-4-tablet">
+            <h5 class="has-text-light">Address</h5>
+            <p class="has-text-white paragraph-lg font-secondary">
+              125B, Foreshore Rd, Cape Town, South Africa
             </p>
           </div>
         </div>

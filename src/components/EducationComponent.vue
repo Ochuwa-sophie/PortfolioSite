@@ -20,9 +20,9 @@
               ></i>
             </div>
             <div class="media-content">
-              <p class="has-text-dark mb-1">2015</p>
+              <p class="has-text-dark mb-1">2012</p>
               <h4>Higher Secondary Certificate</h4>
-              <p class="mb-0 has-text-light">Regina Mundi Girls Secondary School</p>
+              <p class="mb-0 has-text-light">Kingswoods High</p>
             </div>
           </div>
         </div>
@@ -34,13 +34,40 @@
               ></i>
             </div>
             <div class="media-content">
-              <p class="has-text-dark mb-1">2019</p>
-              <h4>BSc. Human Anatomy</h4>
-              <p class="mb-0 has-text-light">University of Benin</p>
+              <p class="has-text-dark mb-1">2013</p>
+              <h4>Computer Science Diploma</h4>
+              <p class="mb-0 has-text-light">University of Cape Town</p>
             </div>
           </div>
         </div>
-        
+        <div class="column is-6 mb-80">
+          <div class="media">
+            <div class="media-left">
+              <i
+                class="ti-medall icon icon-light icon-bg has-background-white shadow is-rounded is-block"
+              ></i>
+            </div>
+            <div class="media-content">
+              <p class="has-text-dark mb-1">2014</p>
+              <h4>Electrical & Computer Engineering Degree</h4>
+              <p class="mb-0 has-text-light">Cardiff School</p>
+            </div>
+          </div>
+        </div>
+        <div class="column is-6 mb-80">
+          <div class="media">
+            <div class="media-left">
+              <i
+                class="ti-medall icon icon-light icon-bg has-background-white shadow is-rounded is-block"
+              ></i>
+            </div>
+            <div class="media-content">
+              <p class="has-text-dark mb-1">2017</p>
+              <h4>Masters in Computer Science</h4>
+              <p class="mb-0 has-text-light">MIT</p>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </section>

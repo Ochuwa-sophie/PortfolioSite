@@ -28,7 +28,12 @@ import ServiceComponent from "../components/ServiceComponent.vue";
 import FooterComponent from "../components/FooterComponent.vue";
 import ContactInfoComponent from "../components/ContactInfoComponent.vue";
 import PortfolioComponent from "@/components/PortfolioComponent.vue";
+import BlogsComponent from "../components/BlogsComponent.vue";
+import TestimonialsComponent from "@/components/TestimonialsComponent.vue";
 import EducationComponent from "../components/EducationComponent.vue";
+import LogoSliderComponent from "../components/LogoSliderComponent.vue";
+
+
 export default {
   name: "All",
   components: {
@@ -39,9 +44,13 @@ export default {
     ExperienceComponent,
     EducationComponent,
     ServiceComponent,
+    TestimonialsComponent,
     PortfolioComponent,
     FooterComponent,
-    ContactInfoComponent
+    ContactInfoComponent,
+    BlogsComponent,
+    LogoSliderComponent
+    // EducationComponent
   },
 
   mounted() {

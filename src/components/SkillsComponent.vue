@@ -12,10 +12,10 @@
               class="is-relative rounded-top progress-wrapper"
               data-color="#fdb157"
             >
-              <div class="wave" data-progress="70%"></div>
+              <div class="wave" data-progress="90%"></div>
             </div>
             <div class="card-content has-background-white">
-              <h4>C# development (70%)</h4>
+              <h4>Frontend Dev (90%)</h4>
             </div>
           </div>
         </div>
@@ -25,10 +25,10 @@
               class="is-relative rounded-top progress-wrapper"
               data-color="#9473e6"
             >
-              <div class="wave" data-progress="70%"></div>
+              <div class="wave" data-progress="60%"></div>
             </div>
             <div class="card-content has-background-white">
-              <h4>Sharepoint Development (70%)</h4>
+              <h4>Web Design (50%)</h4>
             </div>
           </div>
         </div>
@@ -41,7 +41,7 @@
               <div class="wave" data-progress="80%"></div>
             </div>
             <div class="card-content has-background-white">
-              <h4>Wordpress Development (80%)</h4>
+              <h4>Backend Dev (80%)</h4>
             </div>
           </div>
         </div>
@@ -54,7 +54,7 @@
               <div class="wave" data-progress="70%"></div>
             </div>
             <div class="card-content has-background-white">
-              <h4>Microsoft teams Development (60%)</h4>
+              <h4>Mobile Dev (60%)</h4>
             </div>
           </div>
         </div>

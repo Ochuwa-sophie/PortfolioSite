@@ -6,8 +6,8 @@
         <div class="column is-11-desktop is-offset-1-desktop">
           <h1 class="has-text-white font-tertiary">
             Hi! I’m <br />
-            Sophie Obomighie <br />
-            Backend developer
+            Zama Zulu <br />
+            Full Stack developer
           </h1>
         </div>
       </div>
@@ -45,16 +45,16 @@
     </div>
     <!-- social icon -->
     <div class="list list-hero-social">
-      <a class="list-item has-text-white" href="https://medium.com/@ochuwa-sophie"
-        ><i class="ti-medium"></i
+      <a class="list-item has-text-white" href="#"
+        ><i class="ti-facebook"></i
       ></a>
-      <a class="list-item has-text-white" href="https://www.linkedin.com/in/sophieobomighie/"
-        ><i class="ti-linkedin"></i
+      <a class="list-item has-text-white" href="#"
+        ><i class="ti-instagram"></i
       ></a>
-      <a class="list-item has-text-white" href="https://github.com/ochuwa-sophie"
-        ><i class="ti-github"></i
+      <a class="list-item has-text-white" href="#"
+        ><i class="ti-dribbble"></i
       ></a>
-      <a class="list-item has-text-white" href="https://twitter.com/obomighiesophie"
+      <a class="list-item has-text-white" href="#"
         ><i class="ti-twitter"></i
       ></a>
     </div>
