@@ -12,7 +12,7 @@
 export default {
   components: {
     // NavbarComponent
-  },
+  }
   // metaInfo: {
   //   changed(metaInfo) {
   //     firebase.analytics().setCurrentScreen(metaInfo.title);
