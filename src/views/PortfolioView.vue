@@ -42,7 +42,6 @@ export default {
     PortfolioComponent,
     FooterComponent,
     ContactInfoComponent,
-    EducationComponent
   },
 
   mounted() {
