@@ -1,0 +1,46 @@
+# deploy-preview.yml
+name: Deploy to Preview Channel
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  test_and_build:
+    name: Build and Test Vue App
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+      - name: Install Dependencies
+        run: npm install
+        # Run the test and build steps below
+      - name: Run Tests
+        run: npm test
+      - name: Build
+        run: npm run build
+        # Save the build as an Artifact
+      - name: Archive Build Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: build
+          path: build
+
+  deploy_preview:
+    name: Deploy Vue App
+    needs: test_and_build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2.3.2
+      - name: Download Artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: build
+          path: build
+      - uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: "${{ secrets.GITHUB_TOKEN }}"
+          firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT_OCHUWA_WEBSITE }}"
+          expires: 30d
