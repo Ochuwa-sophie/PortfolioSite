@@ -1,17 +1,13 @@
 {
+  "functions": {
+    "source": "functions"
+  },
   "hosting": {
-    "site": "ochuwa-website",
     "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
-    ],
-    "rewrites": [
-      {
-        "source": "**",
-        "destination": "/index.html"
-      }
     ]
   }
 }
